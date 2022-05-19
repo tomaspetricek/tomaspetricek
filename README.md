@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomaspetricek
+- 👀 I’m interested in computer science
+- 🌱 I’m studying a master's program at CTU in Prague
+- 💞️ I’m looking to collaborate on exciting and challenging projects
+- I'm skilled in C++, Python and Java
